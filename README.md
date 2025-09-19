@@ -12,91 +12,91 @@
 10. Day 10: Linux Bash Scripts
 11. Day 11: Install and Configure Tomcat Server
 12. Day 12: Linux Network Services
-13. Day 13: IPtables Installation And Configuration
-14. Day 14: Linux Process Troubleshooting
-15. Day 15: Setup SSL for Nginx
-16. Day 16: Install and Configure Nginx as an LBR
-17. Day 17: Install and Configure PostgreSQL
-18. Day 18: Configure LAMP server
-19. Day 19: Install and Configure Web Application
-20. Day 20: Configure Nginx + PHP-FPM Using Unix Sock
-21. Day 21: Set Up Git Repository on Storage Server
-22. Day 22: Clone Git Repository on Storage Server
+13. [Day 13: IPtables Installation And Configuration](./Day%2013:%20IPtables%20Installation%20And%20Configuration/README.md)
+14. [Day 14: Linux Process Troubleshooting](./Day%2014:%20Linux%20Process%20Troubleshooting/README.md)
+15. [Day 15: Setup SSL for Nginx](./Day%2015:%20Setup%20SSL%20for%20Nginx/README.md)
+16. [Day 16: Install and Configure Nginx as an LBR](./Day%2016:%20Install%20and%20Configure%20Nginx%20as%20an%20LBR/README.md)
+17. [Day 17: Install and Configure PostgreSQL](./Day%2017:%20Install%20and%20Configure%20PostgreSQL/README.md)
+18. [Day 18: Configure LAMP server](./Day%2018:%20Configure%20LAMP%20server/README.md)
+19. [Day 19: Install and Configure Web Application](./Day%2019:%20Install%20and%20Configure%20Web%20Application/README.md)
+20. [Day 20: Configure Nginx + PHP-FPM Using Unix Sock](./Day%2020:%20Configure%20Nginx%20+%20PHP-FPM%20Using%20Unix%20Sock/README.md)
+21. [Day 21: Set Up Git Repository on Storage Server](./Day%2021:%20Set%20Up%20Git%20Repository%20on%20Storage%20Server/README.md)
+22. [Day 22: Clone Git Repository on Storage Server](./Day%2022:%20Clone%20Git%20Repository%20on%20Storage%20Server/README.md)
 23. Day 23: Fork a Git Repository
-24. Day 24: Git Create Branches
-25. Day 25: Git Merge Branches
-26. Day 26: Git Manage Remotes
-27. Day 27: Git Revert Some Changes
-28. Day 28: Git Cherry Pick
+24. [Day 24: Git Create Branches](./Day%2024:%20Git%20Create%20Branches/README.md)
+25. [Day 25: Git Merge Branches](./Day%2025:%20Git%20Merge%20Branches/README.md)
+26. [Day 26: Git Manage Remotes](./Day%2026:%20Git%20Manage%20Remotes/README.md)
+27. [Day 27: Git Revert Some Changes](./Day%2027:%20Git%20Revert%20Some%20Changes/README.md)
+28. [Day 28: Git Cherry Pick](./Day%2028:%20Git%20Cherry%20Pick/README.md)
 29. Day 29: Manage Git Pull Requests
-30. Day 30: Git hard reset
-31. Day 31: Git Stash
-32. Day 32: Git Rebase
-33. Day 33: Resolve Git Merge Conflicts
-34. Day 34: Git Hook
-35. Day 35: Install Docker Packages and Start Docker Service
-36. Day 36: Deploy Nginx Container on Application Server
-37. Day 37: Copy File to Docker Container
-38. Day 38: Pull Docker Image
-39. Day 39: Create a Docker Image From Container
-40. Day 40: Docker EXEC Operations
-41. Day 41: Write a Docker File
-42. Day 42: Create a Docker Network
-43. Day 43: Docker Ports Mapping
-44. Day 44: Write a Docker Compose File
-45. Day 45: Resolve Dockerfile Issues
-46. Day 46: Deploy an App on Docker Containers
-47. Day 47: Docker Python App
-48. Day 48: Deploy Pods in Kubernetes Cluster
-49. Day 49: Deploy Applications with Kubernetes Deployments
-50. Day 50: Set Resource Limits in Kubernetes Pods
-51. Day 51: Execute Rolling Updates in Kubernetes
-52. Day 52: Revert Deployment to Previous Version in Kubernetes
-53. Day 53: Resolve VolumeMounts Issue in Kubernetes
-54. Day 54: Kubernetes Shared Volumes
-55. Day 55: Kubernetes Sidecar Containers
-56. Day 56: Deploy Nginx Web Server on Kubernetes Cluster
-57. Day 57: Print Environment Variables
-58. Day 58: Deploy Grafana on Kubernetes Cluster
-59. Day 59: Troubleshoot Deployment issues in Kubernetes
-60. Day 60: Persistent Volumes in Kubernetes
-61. Day 61: Init Containers in Kubernetes
-62. Day 62: Manage Secrets in Kubernetes
-63. Day 63: Deploy Iron Gallery App on Kubernetes
-64. Day 64: Fix Python App Deployed on Kubernetes Cluster
-65. Day 65: Deploy Redis Deployment on Kubernetes
-66. Day 66: Deploy MySQL on Kubernetes
-67. Day 67: Deploy Guest Book App on Kubernetes
-68. Day 68: Set Up Jenkins Server
-69. Day 69: Install Jenkins Plugins
-70. Day 70: Configure Jenkins User Access
-71. Day 71: Configure Jenkins Job for Package Installation
-72. Day 72: Jenkins Parameterized Builds
-73. Day 73: Jenkins Scheduled Jobs
-74. Day 74: Jenkins Database Backup Job
-75. Day 75: Jenkins Slave Nodes
-76. Day 76: Jenkins Project Security
-77. Day 77: Jenkins Deploy Pipeline
-78. Day 78: Jenkins Conditional Pipeline
-79. Day 79: Jenkins Deployment Job
-80. Day 80: Jenkins Chained Builds
-81. Day 81: Jenkins Multistage Pipeline
-82. Day 82: Create Ansible Inventory for App Server Testing
-83. Day 83: Troubleshoot and Create Ansible Playbook
-84. Day 84: Copy Data to App Servers using Ansible
-85. Day 85: Create Files on App Servers using Ansible
-86. Day 86: Ansible Ping Module Usage
-87. Day 87: Ansible Install Package
-88. Day 88: Ansible Blockinfile Module
-89. Day 89: Ansible Manage Services
-90. Day 90: Managing ACLs Using Ansible
-91. Day 91: Ansible Lineinfile Module
-92. Day 92: Managing Jinja2 Templates Using Ansible
-93. Day 93: Using Ansible Conditionals
-94. Day 94: Create VPC Using Terraform
-95. Day 95: Create Security Group Using Terraform
-96. Day 96: Create EC2 Instance Using Terraform
-97. Day 97: Create IAM Policy Using Terraform
-98. Day 98: Launch EC2 in Private VPC Subnet Using Terraform
-99. Day 99: Attach IAM Policy for DynamoDB Access Using Terraform
-100. Day 100: Create and Configure Alarm Using CloudWatch Using Terraform Keywords: 100 Days of DevOps, KodeKloud, DevOps challenges, Docker, Kubernetes, Ansible, Terraform, Jenkins, Linux, AWS
+30. [Day 30: Git hard reset](./Day%2030:%20Git%20hard%20reset/README.md)
+31. [Day 31: Git Stash](./Day%2031:%20Git%20Stash/README.md)
+32. [Day 32: Git Rebase](./Day%2032:%20Git%20Rebase/README.md)
+33. [Day 33: Resolve Git Merge Conflicts](./Day%2033:%20Resolve%20Git%20Merge%20Conflicts/README.md)
+34. [Day 34: Git Hook](./Day%2034:%20Git%20Hook/README.md)
+35. [Day 35: Install Docker Packages and Start Docker Service](./Day%2035:%20Install%20Docker%20Packages%20and%20Start%20Docker%20Service/README.md)
+36. [Day 36: Deploy Nginx Container on Application Server](./Day%2036:%20Deploy%20Nginx%20Container%20on%20Application%20Server/README.md)
+37. [Day 37: Copy File to Docker Container](./Day%2037:%20Copy%20File%20to%20Docker%20Container/README.md)
+38. [Day 38: Pull Docker Image](./Day%2038:%20Pull%20Docker%20Image/README.md)
+39. [Day 39: Create a Docker Image From Container](./Day%2039:%20Create%20a%20Docker%20Image%20From%20Container/README.md)
+40. [Day 40: Docker EXEC Operations](./Day%2040:%20Docker%20EXEC%20Operations/README.md)
+41. [Day 41: Write a Docker File](./Day%2041:%20Write%20a%20Docker%20File/README.md)
+42. [Day 42: Create a Docker Network](./Day%2042:%20Create%20a%20Docker%20Network/README.md)
+43. [Day 43: Docker Ports Mapping](./Day%2043:%20Docker%20Ports%20Mapping/README.md)
+44. [Day 44: Write a Docker Compose File](./Day%2044:%20Write%20a%20Docker%20Compose%20File/README.md)
+45. [Day 45: Resolve Dockerfile Issues](./Day%2045:%20Resolve%20Dockerfile%20Issues/README.md)
+46. [Day 46: Deploy an App on Docker Containers](./Day%2046:%20Deploy%20an%20App%20on%20Docker%20Containers/README.md)
+47. [Day 47: Docker Python App](./Day%2047:%20Docker%20Python%20App/README.md)
+48. [Day 48: Deploy Pods in Kubernetes Cluster](./Day%2048:%20Deploy%20Pods%20in%20Kubernetes%20Cluster/README.md)
+49. [Day 49: Deploy Applications with Kubernetes Deployments](./Day%2049:%20Deploy%20Applications%20with%20Kubernetes%20Deployments/README.md)
+50. [Day 50: Set Resource Limits in Kubernetes Pods](./Day%2050:%20Set%20Resource%20Limits%20in%20Kubernetes%20Pods/README.md)
+51. [Day 51: Execute Rolling Updates in Kubernetes](./Day%2051:%20Execute%20Rolling%20Updates%20in%20Kubernetes/README.md)
+52. [Day 52: Revert Deployment to Previous Version in Kubernetes](./Day%2052:%20Revert%20Deployment%20to%20Previous%20Version%20in%20Kubernetes/README.md)
+53. [Day 53: Resolve VolumeMounts Issue in Kubernetes](./Day%2053:%20Resolve%20VolumeMounts%20Issue%20in%20Kubernetes/README.md)
+54. [Day 54: Kubernetes Shared Volumes](./Day%2054:%20Kubernetes%20Shared%20Volumes/README.md)
+55. [Day 55: Kubernetes Sidecar Containers](./Day%2055:%20Kubernetes%20Sidecar%20Containers/README.md)
+56. [Day 56: Deploy Nginx Web Server on Kubernetes Cluster](./Day%2056:%20Deploy%20Nginx%20Web%20Server%20on%20Kubernetes%20Cluster/README.md)
+57. [Day 57: Print Environment Variables](./Day%2057:%20Print%20Environment%20Variables/README.md)
+58. [Day 58: Deploy Grafana on Kubernetes Cluster](./Day%2058:%20Deploy%20Grafana%20on%20Kubernetes%20Cluster/README.md)
+59. [Day 59: Troubleshoot Deployment issues in Kubernetes](./Day%2059:%20Troubleshoot%20Deployment%20issues%20in%20Kubernetes/README.md)
+60. [Day 60: Persistent Volumes in Kubernetes](./Day%2060:%20Persistent%20Volumes%20in%20Kubernetes/README.md)
+61. [Day 61: Init Containers in Kubernetes](./Day%2061:%20Init%20Containers%20in%20Kubernetes/README.md)
+62. [Day 62: Manage Secrets in Kubernetes](./Day%2062:%20Manage%20Secrets%20in%20Kubernetes/README.md)
+63. [Day 63: Deploy Iron Gallery App on Kubernetes](./Day%2063:%20Deploy%20Iron%20Gallery%20App%20on%20Kubernetes/README.md)
+64. [Day 64: Fix Python App Deployed on Kubernetes Cluster](./Day%2064:%20Fix%20Python%20App%20Deployed%20on%20Kubernetes%20Cluster/README.md)
+65. [Day 65: Deploy Redis Deployment on Kubernetes](./Day%2065:%20Deploy%20Redis%20Deployment%20on%20Kubernetes/README.md)
+66. [Day 66: Deploy MySQL on Kubernetes](./Day%2066:%20Deploy%20MySQL%20on%20Kubernetes/README.md)
+67. [Day 67: Deploy Guest Book App on Kubernetes](./Day%2067:%20Deploy%20Guest%20Book%20App%20on%20Kubernetes/README.md)
+68. [Day 68: Set Up Jenkins Server](./Day%2068:%20Set%20Up%20Jenkins%20Server/README.md)
+69. [Day 69: Install Jenkins Plugins](./Day%2069:%20Install%20Jenkins%20Plugins/README.md)
+70. [Day 70: Configure Jenkins User Access](./Day%2070:%20Configure%20Jenkins%20User%20Access/README.md)
+71. [Day 71: Configure Jenkins Job for Package Installation](./Day%2071:%20Configure%20Jenkins%20Job%20for%20Package%20Installation/README.md)
+72. [Day 72: Jenkins Parameterized Builds](./Day%2072:%20Jenkins%20Parameterized%20Builds/README.md)
+73. [Day 73: Jenkins Scheduled Jobs](./Day%2073:%20Jenkins%20Scheduled%20Jobs/README.md)
+74. [Day 74: Jenkins Database Backup Job](./Day%2074:%20Jenkins%20Database%20Backup%20Job/README.md)
+75. [Day 75: Jenkins Slave Nodes](./Day%2075:%20Jenkins%20Slave%20Nodes/README.md)
+76. [Day 76: Jenkins Project Security](./Day%2076:%20Jenkins%20Project%20Security/README.md)
+77. [Day 77: Jenkins Deploy Pipeline](./Day%2077:%20Jenkins%20Deploy%20Pipeline/README.md)
+78. [Day 78: Jenkins Conditional Pipeline](./Day%2078:%20Jenkins%20Conditional%20Pipeline/README.md)
+79. [Day 79: Jenkins Deployment Job](./Day%2079:%20Jenkins%20Deployment%20Job/README.md)
+80. [Day 80: Jenkins Chained Builds](./Day%2080:%20Jenkins%20Chained%20Builds/README.md)
+81. [Day 81: Jenkins Multistage Pipeline](./Day%2081:%20Jenkins%20Multistage%20Pipeline/README.md)
+82. [Day 82: Create Ansible Inventory for App Server Testing](./Day%2082:%20Create%20Ansible%20Inventory%20for%20App%20Server%20Testing/README.md)
+83. [Day 83: Troubleshoot and Create Ansible Playbook](./Day%2083:%20Troubleshoot%20and%20Create%20Ansible%20Playbook/README.md)
+84. [Day 84: Copy Data to App Servers using Ansible](./Day%2084:%20Copy%20Data%20to%20App%20Servers%20using%20Ansible/README.md)
+85. [Day 85: Create Files on App Servers using Ansible](./Day%2085:%20Create%20Files%20on%20App%20Servers%20using%20Ansible/README.md)
+86. [Day 86: Ansible Ping Module Usage](./Day%2086:%20Ansible%20Ping%20Module%20Usage/README.md)
+87. [Day 87: Ansible Install Package](./Day%2087:%20Ansible%20Install%20Package/README.md)
+88. [Day 88: Ansible Blockinfile Module](./Day%2088:%20Ansible%20Blockinfile%20Module/README.md)
+89. [Day 89: Ansible Manage Services](./Day%2089:%20Ansible%20Manage%20Services/README.md)
+90. [Day 90: Managing ACLs Using Ansible](./Day%2090:%20Managing%20ACLs%20Using%20Ansible/README.md)
+91. [Day 91: Ansible Lineinfile Module](./Day%2091:%20Ansible%20Lineinfile%20Module/README.md)
+92. [Day 92: Managing Jinja2 Templates Using Ansible](./Day%2092:%20Managing%20Jinja2%20Templates%20Using%20Ansible/README.md)
+93. [Day 93: Using Ansible Conditionals](./Day%2093:%20Using%20Ansible%20Conditionals/README.md)
+94. [Day 94: Create VPC Using Terraform](./Day%2094:%20Create%20VPC%20Using%20Terraform/README.md)
+95. [Day 95: Create Security Group Using Terraform](./Day%2095:%20Create%20Security%20Group%20Using%20Terraform/README.md)
+96. [Day 96: Create EC2 Instance Using Terraform](./Day%2096:%20Create%20EC2%20Instance%20Using%20Terraform/README.md)
+97. [Day 97: Create IAM Policy Using Terraform](./Day%2097:%20Create%20IAM%20Policy%20Using%20Terraform/README.md)
+98. [Day 98: Launch EC2 in Private VPC Subnet Using Terraform](./Day%2098:%20Launch%20EC2%20in%20Private%20VPC%20Subnet%20Using%20Terraform/README.md)
+99. [Day 99: Attach IAM Policy for DynamoDB Access Using Terraform](./Day%2099:%20Attach%20IAM%20Policy%20for%20DynamoDB%20Access%20Using%20Terraform/README.md)
+100. [Day 100: Create and Configure Alarm Using CloudWatch Using Terraform Keywords: 100 Days of DevOps, KodeKloud, DevOps challenges, Docker, Kubernetes, Ansible, Terraform, Jenkins, Linux, AWS](./Day%20100:%20Create%20and%20Configure%20Alarm%20Using%20CloudWatch%20Using%20Terraform%20Keywords:%20100%20Days%20of%20DevOps,%20KodeKloud,%20DevOps%20challenges,%20Docker,%20Kubernetes,%20Ansible,%20Terraform,%20Jenkins,%20Linux,%20AWS/README.md)
