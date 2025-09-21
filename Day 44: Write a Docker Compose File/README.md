@@ -30,7 +30,7 @@
     ```
 
       <details>
-        <summary>docker-compose.yml</summary>
+        <summary>outputs</summary>
 
           # docker compose up -d
 
